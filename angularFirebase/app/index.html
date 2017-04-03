@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html ng-app="todoListApp">
+<!-- <script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.5.7/angular.min.js"></script> -->
+<link rel="stylesheet" href="https://www.w3schools.com/w3css/3/w3.css">
+
+<script src="bower_components/angular/angular.js"></script>
+<!-- <script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.4.8/angular.min.js"></script> -->
+<script src="app.module.js"></script>
+<script src="list/list.module.js"></script>
+
+
+
+
+<!-- Firebase -->
+<script src="https://cdn.firebase.com/js/client/2.2.4/firebase.js"></script>
+<!-- AngularFire -->
+<script src="https://cdn.firebase.com/libs/angularfire/2.3.0/angularfire.min.js"></script>
+<script src="https://www.gstatic.com/firebasejs/3.7.4/firebase.js"></script>
+
+
+
+
+<script>
+   var config = {
+    apiKey: "AIzaSyC_lIwyPPRn7IFHisiATZHdKNgKBMXf9jw",
+    authDomain: "test-ccfe6.firebaseapp.com",
+    databaseURL: "https://test-ccfe6.firebaseio.com",
+    storageBucket: "test-ccfe6.appspot.com",
+    messagingSenderId: "283408424468"
+  };
+  firebase.initializeApp(config);
+</script>
+
+<script src="list/list.component.js"></script>
+
+<body >
+
+<work-list></work-list>
+
+
+
+</body>
+</html>
+
+
+
+
+
