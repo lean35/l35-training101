@@ -39,6 +39,12 @@ namespace angularJSASP
                 defaults: new { controller = "Account", action = "Register" });
 
             routes.MapRoute(
+                name:"routeFour",
+                url: "routesDemo/Four",
+                defaults: new { controller ="RoutesDemo", action = "Four"}
+                );
+
+            routes.MapRoute(
                 name: "Default",
                 url: "{*url}",
                 defaults: new { controller = "Home", action = "Index" });

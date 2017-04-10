@@ -11,7 +11,7 @@
             }
         ).
             success(function (data) {
-                if (data == "True") {
+                if (data === "True") {
                     deferredObject.resolve({ success: true });
                 } else {
                     deferredObject.resolve({ success: false });
