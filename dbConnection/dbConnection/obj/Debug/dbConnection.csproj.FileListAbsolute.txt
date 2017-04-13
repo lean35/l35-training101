@@ -1,0 +1,154 @@
+c:\users\1\documents\visual studio 2017\Projects\dbConnection\dbConnection\bin\ApplicationInsights.config
+c:\users\1\documents\visual studio 2017\Projects\dbConnection\dbConnection\bin\roslyn\csc.exe
+c:\users\1\documents\visual studio 2017\Projects\dbConnection\dbConnection\bin\roslyn\csc.exe.config
+c:\users\1\documents\visual studio 2017\Projects\dbConnection\dbConnection\bin\roslyn\csc.rsp
+c:\users\1\documents\visual studio 2017\Projects\dbConnection\dbConnection\bin\roslyn\csi.exe
+c:\users\1\documents\visual studio 2017\Projects\dbConnection\dbConnection\bin\roslyn\csi.rsp
+c:\users\1\documents\visual studio 2017\Projects\dbConnection\dbConnection\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+c:\users\1\documents\visual studio 2017\Projects\dbConnection\dbConnection\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+c:\users\1\documents\visual studio 2017\Projects\dbConnection\dbConnection\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+c:\users\1\documents\visual studio 2017\Projects\dbConnection\dbConnection\bin\roslyn\Microsoft.CodeAnalysis.dll
+c:\users\1\documents\visual studio 2017\Projects\dbConnection\dbConnection\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+c:\users\1\documents\visual studio 2017\Projects\dbConnection\dbConnection\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+c:\users\1\documents\visual studio 2017\Projects\dbConnection\dbConnection\bin\roslyn\Microsoft.CSharp.Core.targets
+c:\users\1\documents\visual studio 2017\Projects\dbConnection\dbConnection\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+c:\users\1\documents\visual studio 2017\Projects\dbConnection\dbConnection\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+c:\users\1\documents\visual studio 2017\Projects\dbConnection\dbConnection\bin\roslyn\Microsoft.VisualBasic.Core.targets
+c:\users\1\documents\visual studio 2017\Projects\dbConnection\dbConnection\bin\roslyn\System.AppContext.dll
+c:\users\1\documents\visual studio 2017\Projects\dbConnection\dbConnection\bin\roslyn\System.Collections.Immutable.dll
+c:\users\1\documents\visual studio 2017\Projects\dbConnection\dbConnection\bin\roslyn\System.Diagnostics.StackTrace.dll
+c:\users\1\documents\visual studio 2017\Projects\dbConnection\dbConnection\bin\roslyn\System.IO.FileSystem.dll
+c:\users\1\documents\visual studio 2017\Projects\dbConnection\dbConnection\bin\roslyn\System.IO.FileSystem.Primitives.dll
+c:\users\1\documents\visual studio 2017\Projects\dbConnection\dbConnection\bin\roslyn\System.Reflection.Metadata.dll
+c:\users\1\documents\visual studio 2017\Projects\dbConnection\dbConnection\bin\roslyn\vbc.exe
+c:\users\1\documents\visual studio 2017\Projects\dbConnection\dbConnection\bin\roslyn\vbc.exe.config
+c:\users\1\documents\visual studio 2017\Projects\dbConnection\dbConnection\bin\roslyn\vbc.rsp
+c:\users\1\documents\visual studio 2017\Projects\dbConnection\dbConnection\bin\roslyn\VBCSCompiler.exe
+c:\users\1\documents\visual studio 2017\Projects\dbConnection\dbConnection\bin\roslyn\VBCSCompiler.exe.config
+c:\users\1\documents\visual studio 2017\Projects\dbConnection\dbConnection\bin\dbConnection.dll.config
+c:\users\1\documents\visual studio 2017\Projects\dbConnection\dbConnection\bin\dbConnection.dll
+c:\users\1\documents\visual studio 2017\Projects\dbConnection\dbConnection\bin\dbConnection.pdb
+c:\users\1\documents\visual studio 2017\Projects\dbConnection\dbConnection\bin\Antlr3.Runtime.dll
+c:\users\1\documents\visual studio 2017\Projects\dbConnection\dbConnection\bin\EntityFramework.dll
+c:\users\1\documents\visual studio 2017\Projects\dbConnection\dbConnection\bin\EntityFramework.SqlServer.dll
+c:\users\1\documents\visual studio 2017\Projects\dbConnection\dbConnection\bin\Microsoft.AI.Agent.Intercept.dll
+c:\users\1\documents\visual studio 2017\Projects\dbConnection\dbConnection\bin\Microsoft.AI.DependencyCollector.dll
+c:\users\1\documents\visual studio 2017\Projects\dbConnection\dbConnection\bin\Microsoft.AI.PerfCounterCollector.dll
+c:\users\1\documents\visual studio 2017\Projects\dbConnection\dbConnection\bin\Microsoft.AI.ServerTelemetryChannel.dll
+c:\users\1\documents\visual studio 2017\Projects\dbConnection\dbConnection\bin\Microsoft.AI.Web.dll
+c:\users\1\documents\visual studio 2017\Projects\dbConnection\dbConnection\bin\Microsoft.AI.WindowsServer.dll
+c:\users\1\documents\visual studio 2017\Projects\dbConnection\dbConnection\bin\Microsoft.ApplicationInsights.dll
+c:\users\1\documents\visual studio 2017\Projects\dbConnection\dbConnection\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+c:\users\1\documents\visual studio 2017\Projects\dbConnection\dbConnection\bin\Microsoft.Web.Infrastructure.dll
+c:\users\1\documents\visual studio 2017\Projects\dbConnection\dbConnection\bin\Newtonsoft.Json.dll
+c:\users\1\documents\visual studio 2017\Projects\dbConnection\dbConnection\bin\System.Net.Http.Formatting.dll
+c:\users\1\documents\visual studio 2017\Projects\dbConnection\dbConnection\bin\System.Web.Helpers.dll
+c:\users\1\documents\visual studio 2017\Projects\dbConnection\dbConnection\bin\System.Web.Http.dll
+c:\users\1\documents\visual studio 2017\Projects\dbConnection\dbConnection\bin\System.Web.Http.WebHost.dll
+c:\users\1\documents\visual studio 2017\Projects\dbConnection\dbConnection\bin\System.Web.Mvc.dll
+c:\users\1\documents\visual studio 2017\Projects\dbConnection\dbConnection\bin\System.Web.Optimization.dll
+c:\users\1\documents\visual studio 2017\Projects\dbConnection\dbConnection\bin\System.Web.Razor.dll
+c:\users\1\documents\visual studio 2017\Projects\dbConnection\dbConnection\bin\System.Web.WebPages.Deployment.dll
+c:\users\1\documents\visual studio 2017\Projects\dbConnection\dbConnection\bin\System.Web.WebPages.dll
+c:\users\1\documents\visual studio 2017\Projects\dbConnection\dbConnection\bin\System.Web.WebPages.Razor.dll
+c:\users\1\documents\visual studio 2017\Projects\dbConnection\dbConnection\bin\WebGrease.dll
+c:\users\1\documents\visual studio 2017\Projects\dbConnection\dbConnection\bin\EntityFramework.xml
+c:\users\1\documents\visual studio 2017\Projects\dbConnection\dbConnection\bin\EntityFramework.SqlServer.xml
+c:\users\1\documents\visual studio 2017\Projects\dbConnection\dbConnection\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+c:\users\1\documents\visual studio 2017\Projects\dbConnection\dbConnection\bin\Newtonsoft.Json.xml
+c:\users\1\documents\visual studio 2017\Projects\dbConnection\dbConnection\bin\System.Net.Http.Formatting.xml
+c:\users\1\documents\visual studio 2017\Projects\dbConnection\dbConnection\bin\System.Web.Helpers.xml
+c:\users\1\documents\visual studio 2017\Projects\dbConnection\dbConnection\bin\System.Web.Http.xml
+c:\users\1\documents\visual studio 2017\Projects\dbConnection\dbConnection\bin\System.Web.Http.WebHost.xml
+c:\users\1\documents\visual studio 2017\Projects\dbConnection\dbConnection\bin\System.Web.Mvc.xml
+c:\users\1\documents\visual studio 2017\Projects\dbConnection\dbConnection\bin\System.Web.Optimization.xml
+c:\users\1\documents\visual studio 2017\Projects\dbConnection\dbConnection\bin\System.Web.Razor.xml
+c:\users\1\documents\visual studio 2017\Projects\dbConnection\dbConnection\bin\System.Web.WebPages.xml
+c:\users\1\documents\visual studio 2017\Projects\dbConnection\dbConnection\bin\System.Web.WebPages.Deployment.xml
+c:\users\1\documents\visual studio 2017\Projects\dbConnection\dbConnection\bin\System.Web.WebPages.Razor.xml
+c:\users\1\documents\visual studio 2017\Projects\dbConnection\dbConnection\bin\Antlr3.Runtime.pdb
+c:\users\1\documents\visual studio 2017\Projects\dbConnection\dbConnection\bin\Microsoft.ApplicationInsights.xml
+c:\users\1\documents\visual studio 2017\Projects\dbConnection\dbConnection\bin\Microsoft.AI.DependencyCollector.xml
+c:\users\1\documents\visual studio 2017\Projects\dbConnection\dbConnection\bin\Microsoft.AI.ServerTelemetryChannel.xml
+c:\users\1\documents\visual studio 2017\Projects\dbConnection\dbConnection\bin\Microsoft.AI.WindowsServer.xml
+c:\users\1\documents\visual studio 2017\Projects\dbConnection\dbConnection\bin\Microsoft.AI.Web.xml
+c:\users\1\documents\visual studio 2017\Projects\dbConnection\dbConnection\obj\Debug\dbConnection.csprojResolveAssemblyReference.cache
+c:\users\1\documents\visual studio 2017\Projects\dbConnection\dbConnection\obj\Debug\dbConnection.dll
+c:\users\1\documents\visual studio 2017\Projects\dbConnection\dbConnection\obj\Debug\dbConnection.pdb
+D:\programming\С#\projects_visual\ASP\dbConnection\dbConnection\bin\ApplicationInsights.config
+D:\programming\С#\projects_visual\ASP\dbConnection\dbConnection\bin\roslyn\csc.exe
+D:\programming\С#\projects_visual\ASP\dbConnection\dbConnection\bin\roslyn\csc.exe.config
+D:\programming\С#\projects_visual\ASP\dbConnection\dbConnection\bin\roslyn\csc.rsp
+D:\programming\С#\projects_visual\ASP\dbConnection\dbConnection\bin\roslyn\csi.exe
+D:\programming\С#\projects_visual\ASP\dbConnection\dbConnection\bin\roslyn\csi.rsp
+D:\programming\С#\projects_visual\ASP\dbConnection\dbConnection\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\programming\С#\projects_visual\ASP\dbConnection\dbConnection\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\programming\С#\projects_visual\ASP\dbConnection\dbConnection\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\programming\С#\projects_visual\ASP\dbConnection\dbConnection\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\programming\С#\projects_visual\ASP\dbConnection\dbConnection\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\programming\С#\projects_visual\ASP\dbConnection\dbConnection\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\programming\С#\projects_visual\ASP\dbConnection\dbConnection\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\programming\С#\projects_visual\ASP\dbConnection\dbConnection\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\programming\С#\projects_visual\ASP\dbConnection\dbConnection\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\programming\С#\projects_visual\ASP\dbConnection\dbConnection\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\programming\С#\projects_visual\ASP\dbConnection\dbConnection\bin\roslyn\System.AppContext.dll
+D:\programming\С#\projects_visual\ASP\dbConnection\dbConnection\bin\roslyn\System.Collections.Immutable.dll
+D:\programming\С#\projects_visual\ASP\dbConnection\dbConnection\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\programming\С#\projects_visual\ASP\dbConnection\dbConnection\bin\roslyn\System.IO.FileSystem.dll
+D:\programming\С#\projects_visual\ASP\dbConnection\dbConnection\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\programming\С#\projects_visual\ASP\dbConnection\dbConnection\bin\roslyn\System.Reflection.Metadata.dll
+D:\programming\С#\projects_visual\ASP\dbConnection\dbConnection\bin\roslyn\vbc.exe
+D:\programming\С#\projects_visual\ASP\dbConnection\dbConnection\bin\roslyn\vbc.exe.config
+D:\programming\С#\projects_visual\ASP\dbConnection\dbConnection\bin\roslyn\vbc.rsp
+D:\programming\С#\projects_visual\ASP\dbConnection\dbConnection\bin\roslyn\VBCSCompiler.exe
+D:\programming\С#\projects_visual\ASP\dbConnection\dbConnection\bin\roslyn\VBCSCompiler.exe.config
+D:\programming\С#\projects_visual\ASP\dbConnection\dbConnection\bin\dbConnection.dll.config
+D:\programming\С#\projects_visual\ASP\dbConnection\dbConnection\bin\dbConnection.dll
+D:\programming\С#\projects_visual\ASP\dbConnection\dbConnection\bin\dbConnection.pdb
+D:\programming\С#\projects_visual\ASP\dbConnection\dbConnection\bin\Antlr3.Runtime.dll
+D:\programming\С#\projects_visual\ASP\dbConnection\dbConnection\bin\EntityFramework.dll
+D:\programming\С#\projects_visual\ASP\dbConnection\dbConnection\bin\EntityFramework.SqlServer.dll
+D:\programming\С#\projects_visual\ASP\dbConnection\dbConnection\bin\Microsoft.AI.Agent.Intercept.dll
+D:\programming\С#\projects_visual\ASP\dbConnection\dbConnection\bin\Microsoft.AI.DependencyCollector.dll
+D:\programming\С#\projects_visual\ASP\dbConnection\dbConnection\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\programming\С#\projects_visual\ASP\dbConnection\dbConnection\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\programming\С#\projects_visual\ASP\dbConnection\dbConnection\bin\Microsoft.AI.Web.dll
+D:\programming\С#\projects_visual\ASP\dbConnection\dbConnection\bin\Microsoft.AI.WindowsServer.dll
+D:\programming\С#\projects_visual\ASP\dbConnection\dbConnection\bin\Microsoft.ApplicationInsights.dll
+D:\programming\С#\projects_visual\ASP\dbConnection\dbConnection\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\programming\С#\projects_visual\ASP\dbConnection\dbConnection\bin\Microsoft.Web.Infrastructure.dll
+D:\programming\С#\projects_visual\ASP\dbConnection\dbConnection\bin\Newtonsoft.Json.dll
+D:\programming\С#\projects_visual\ASP\dbConnection\dbConnection\bin\System.Net.Http.Formatting.dll
+D:\programming\С#\projects_visual\ASP\dbConnection\dbConnection\bin\System.Web.Helpers.dll
+D:\programming\С#\projects_visual\ASP\dbConnection\dbConnection\bin\System.Web.Http.dll
+D:\programming\С#\projects_visual\ASP\dbConnection\dbConnection\bin\System.Web.Http.WebHost.dll
+D:\programming\С#\projects_visual\ASP\dbConnection\dbConnection\bin\System.Web.Mvc.dll
+D:\programming\С#\projects_visual\ASP\dbConnection\dbConnection\bin\System.Web.Optimization.dll
+D:\programming\С#\projects_visual\ASP\dbConnection\dbConnection\bin\System.Web.Razor.dll
+D:\programming\С#\projects_visual\ASP\dbConnection\dbConnection\bin\System.Web.WebPages.Deployment.dll
+D:\programming\С#\projects_visual\ASP\dbConnection\dbConnection\bin\System.Web.WebPages.dll
+D:\programming\С#\projects_visual\ASP\dbConnection\dbConnection\bin\System.Web.WebPages.Razor.dll
+D:\programming\С#\projects_visual\ASP\dbConnection\dbConnection\bin\WebGrease.dll
+D:\programming\С#\projects_visual\ASP\dbConnection\dbConnection\bin\EntityFramework.xml
+D:\programming\С#\projects_visual\ASP\dbConnection\dbConnection\bin\EntityFramework.SqlServer.xml
+D:\programming\С#\projects_visual\ASP\dbConnection\dbConnection\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\programming\С#\projects_visual\ASP\dbConnection\dbConnection\bin\Newtonsoft.Json.xml
+D:\programming\С#\projects_visual\ASP\dbConnection\dbConnection\bin\System.Net.Http.Formatting.xml
+D:\programming\С#\projects_visual\ASP\dbConnection\dbConnection\bin\System.Web.Helpers.xml
+D:\programming\С#\projects_visual\ASP\dbConnection\dbConnection\bin\System.Web.Http.xml
+D:\programming\С#\projects_visual\ASP\dbConnection\dbConnection\bin\System.Web.Http.WebHost.xml
+D:\programming\С#\projects_visual\ASP\dbConnection\dbConnection\bin\System.Web.Mvc.xml
+D:\programming\С#\projects_visual\ASP\dbConnection\dbConnection\bin\System.Web.Optimization.xml
+D:\programming\С#\projects_visual\ASP\dbConnection\dbConnection\bin\System.Web.Razor.xml
+D:\programming\С#\projects_visual\ASP\dbConnection\dbConnection\bin\System.Web.WebPages.xml
+D:\programming\С#\projects_visual\ASP\dbConnection\dbConnection\bin\System.Web.WebPages.Deployment.xml
+D:\programming\С#\projects_visual\ASP\dbConnection\dbConnection\bin\System.Web.WebPages.Razor.xml
+D:\programming\С#\projects_visual\ASP\dbConnection\dbConnection\bin\Antlr3.Runtime.pdb
+D:\programming\С#\projects_visual\ASP\dbConnection\dbConnection\bin\Microsoft.ApplicationInsights.xml
+D:\programming\С#\projects_visual\ASP\dbConnection\dbConnection\bin\Microsoft.AI.DependencyCollector.xml
+D:\programming\С#\projects_visual\ASP\dbConnection\dbConnection\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\programming\С#\projects_visual\ASP\dbConnection\dbConnection\bin\Microsoft.AI.WindowsServer.xml
+D:\programming\С#\projects_visual\ASP\dbConnection\dbConnection\bin\Microsoft.AI.Web.xml
+D:\programming\С#\projects_visual\ASP\dbConnection\dbConnection\obj\Debug\dbConnection.csprojResolveAssemblyReference.cache
+D:\programming\С#\projects_visual\ASP\dbConnection\dbConnection\obj\Debug\dbConnection.dll
+D:\programming\С#\projects_visual\ASP\dbConnection\dbConnection\obj\Debug\dbConnection.pdb
